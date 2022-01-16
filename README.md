@@ -1,4 +1,16 @@
 ## ASTRA Machine learning
+
+Projeto voltado a astronomia com machine learning classificaçãoes de astros e por imagens detecção de novos exoplanetas utlizando inteligência artificial.
+
+- Esse projeto tem foco de estudo e tambem conceitos em práticos com I.A.
+- Classificação astros.
+- Classificação exoplanetas.
+- Classificação galáxias.
+- Classificação estrelas.
+
+Os projetos vão está em uma pasta chamado "Jupyter Notebook" e na outra pasta em formato em "Py".
+Todos os projetos são comentados de forma simples e documentada.
+
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
@@ -24,16 +36,6 @@
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
-Projeto voltado a astronomia com machine learning classificaçãoes de astros e por imagens detecção de novos exoplanetas utlizando inteligência artificial.
-
-- Esse projeto tem foco de estudo e tambem conceitos em práticos com I.A.
-- Classificação astros.
-- Classificação exoplanetas.
-- Classificação galáxias.
-- Classificação estrelas.
-
-Os projetos vão está em uma pasta chamado "Jupyter Notebook" e na outra pasta em formato em "Py".
-Todos os projetos são comentados de forma simples e documentada.
 
 ![Logo](https://image.freepik.com/fotos-gratis/panorama-noturno-da-galaxia_23-2148895342.jpg)
 
@@ -126,14 +128,52 @@ function App() {
 
 **Aprendizagem não supervisionada:** Clusterização
 
-## Base de dados
+## Base de dados - Modelos de machine learning
 
-| Dataset               | Link da base dados                                                |
+| Dataset               | Link                                                 |
 | ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | |
-| Cor exemplo       | |
-| Cor exemplo       | |
-| Cor exemplo       | |
+|Pulsar Star|https://www.kaggle.com/shivam1901/pulsar-star|
+|**Pulsar Star - Referência notebook**| https://www.kaggle.com/camiloemartinez/a-new-pulsar-star-supervised-machine-learning/notebook|
+|Asteroids Classification - NASA |https://www.kaggle.com/shrutimehta/nasa-asteroids-classification?select=nasa.csv |
+|Sloan Digital Sky Survey DR16 | https://www.kaggle.com/muhakabartay/sloan-digital-sky-survey-dr16|
+|Kepler Exoplanet - NASA| https://www.kaggle.com/nasa/kepler-exoplanet-search-results|
+|Meteorite Landings - NASA |https://www.kaggle.com/nasa/meteorite-landings |
+|Solar and Lunar Eclipses - NASA| https://www.kaggle.com/nasa/solar-eclipses |
+|Star Cluster Simulations |https://www.kaggle.com/mariopasquato/star-cluster-simulations |
+|Near-Earth Comets - NASA| https://www.kaggle.com/nasa/near-earth-comets|
+|Trappist-1 Solar System - NASA|https://www.kaggle.com/nasa/trappist1 |
+|Open Exoplanet Catalogue      |https://www.kaggle.com/mrisdal/open-exoplanet-catalogue |
+|Space walking NASA | https://www.kaggle.com/nasa/space-walking-russian-and-us-evas |
+|Fireballs - NASA |https://www.kaggle.com/nasa/fireballs |
+|Star Type Classification / NASA       |https://www.kaggle.com/brsdincer/star-type-classification |
+|All Space Missions from 1957| https://www.kaggle.com/agirlcoding/all-space-missions-from-1957 |
+|Exoplanet Hunting in Deep Space |https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data?select=exoTest.csv |
+|Solar Radiation Prediction       | https://www.kaggle.com/dronio/SolarEnergy|
+|Open Asteroid Dataset | https://www.kaggle.com/basu369victor/prediction-of-asteroid-diameter?select=Asteroid.csv|
+|Dysonian SETI Candidates DR1| https://www.kaggle.com/solorzano/dysonian-seti-candidates-dr1|
+|Sloan Digital Sky Survey DR12 Server Data| https://www.kaggle.com/ashishsaxena2209/sloan-digital-sky-survey-dr12-server-data|
+|Star dataset to predict star types | https://www.kaggle.com/deepu1109/star-dataset|
+|Possible Asteroid Impacts with Earth - NASA | https://www.kaggle.com/nasa/asteroid-impacts|
+|Predicting Pulsar Star|https://www.kaggle.com/colearninglounge/predicting-pulsar-starintermediate|
+|Star Dataset: Stellar Classification|https://www.kaggle.com/vinesmsuic/star-categorization-giants-and-dwarfs|
+
+## Base de dados - Deep learning 
+
+| Dataset               | Link                                                 |
+| ----------------- | ---------------------------------------------------------------- |
+|Galaxy Zoo - The Galaxy |https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/data|
+|**Referência: Galaxy Zoo - The Galaxy** |https://www.kaggle.com/henriquelimanas/galaxy-zoo-classifier-galaxies/data|
+|Sloan Digital Sky Survey DR14|https://www.kaggle.com/lucidlenn/sloan-digital-sky-survey|
+|Center of All Observable Galaxies/FITS ALL/ESA|https://www.kaggle.com/brsdincer/center-of-all-observable-galaxiesfits-allesa|
+|**Referência: Center of All Observable Galaxies/FITS ALL/ESA** |https://www.kaggle.com/brsdincer/ngc4013-galaxy-observation-analysis-process/data|
+|Galaxy Zoo 2: Images| https://www.kaggle.com/jaimetrickz/galaxy-zoo-2-images|
+|Star-Galaxy Classification|https://www.kaggle.com/divyansh22/dummy-astronomy-data|
+|Predicting Pulsar Star|https://www.kaggle.com/colearninglounge/predicting-pulsar-starintermediate|
+|Star Dataset: Stellar Classification| https://www.kaggle.com/vinesmsuic/star-categorization-giants-and-dwarfs|
+|Star Type Classification |https://www.kaggle.com/brsdincer/star-type-classification |
+
+
+
 
 
 ## Screenshots
