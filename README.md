@@ -1,6 +1,4 @@
 ## ASTRA Machine learning
-Projeto voltado a astronomia com machine learning classificaçãoes de astros e por imagens detecção de novos exoplanetas utlizando inteligência artificial.
-
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
@@ -25,6 +23,8 @@ Projeto voltado a astronomia com machine learning classificaçãoes de astros e 
 [![](https://img.shields.io/badge/Scikit_Learn-green.svg)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
+
+Projeto voltado a astronomia com machine learning classificaçãoes de astros e por imagens detecção de novos exoplanetas utlizando inteligência artificial.
 
 - Esse projeto tem foco de estudo e tambem conceitos em práticos com I.A.
 - Classificação astros.
