@@ -173,21 +173,9 @@ function App() {
 |Star Dataset: Stellar Classification| https://www.kaggle.com/vinesmsuic/star-categorization-giants-and-dwarfs|
 |Star Type Classification |https://www.kaggle.com/brsdincer/star-type-classification |
 
-
-
-
-
 ## Screenshots
-
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-
-## Feedback
-
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
-
-
 ## Melhorias
-
 Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc
 
