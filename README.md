@@ -134,7 +134,6 @@ function App() {
 | Dataset               | Link                                                 |
 | ----------------- | ---------------------------------------------------------------- |
 |Pulsar Star|[Link](https://github.com/RafaelGallo/Machine-learning---ASTRA-/blob/main/Jupyter%20Notebook/M.L%20modelo%20classificacao.ipynb)|
-
 |Asteroids Classification - NASA |https://www.kaggle.com/shrutimehta/nasa-asteroids-classification?select=nasa.csv |
 |Sloan Digital Sky Survey DR16 | https://www.kaggle.com/muhakabartay/sloan-digital-sky-survey-dr16|
 |Kepler Exoplanet - NASA| https://www.kaggle.com/nasa/kepler-exoplanet-search-results|
