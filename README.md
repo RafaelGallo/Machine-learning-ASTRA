@@ -25,20 +25,25 @@
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
-Projeto voltado a astronomia com machine learning classificações de astros e por imagens detecção de novos exoplanetas utilizando inteligência artificial.
-
-- Esse projeto tem foco de estudo e também conceitos em práticos com I.A.
-- Classificação astros.
-- Classificação exoplanetas.
-- Classificação galáxias.
-- Classificação estrelas.
-
-Os projetos vão está em uma pasta chamado "Jupyter Notebook" e na outra pasta em formato em "Py". Todos os projetos são comentados de forma simples e documentada.
-
-
-
 ![Logo](https://image.freepik.com/fotos-gratis/panorama-noturno-da-galaxia_23-2148895342.jpg)
 
+# Descrição
+Esse projeto aplicando inteligência artificial na Astronomia para Classificação de Astros e Detecção de Novos Exoplanetas
+
+## Metodologia
+Este projeto tem como objetivo principal aplicar técnicas de Machine Learning e Inteligência Artificial para a classificação de astros e detecção de novos exoplanetas. A metodologia envolverá a utilização de diferentes modelos de Machine Learning, como redes neurais convolucionais e aprendizado não supervisionado. Serão utilizados modelos de aprendizado de máquina, como redes neurais convolucionais e aprendizado não supervisionado, para a análise de dados astronômicos.
+
+## Classificação de Astros
+Será desenvolvido um modelo de Machine Learning utilizando redes neurais convolucionais para classificar diferentes tipos de astros. Serão utilizados conjuntos de dados astronômicos previamente rotulados, contendo informações sobre as características físicas, espectrais e fotométricas dos astros. O modelo será treinado com esses dados para aprender a reconhecer e classificar astros com base em suas características. Será feita uma validação do modelo utilizando um conjunto de dados de teste para avaliar sua precisão e desempenho.
+
+## Classificação de Exoplanetas
+Utilizando aprendizado não supervisionado, será desenvolvido um modelo para identificar e classificar exoplanetas. Serão utilizados conjuntos de dados astronômicos que contêm informações sobre trânsitos planetários, variações de fluxo estelar e outras características relevantes. O modelo aprenderá a identificar padrões nessas informações e agrupar exoplanetas em diferentes categorias. Será feita uma análise dos resultados e uma comparação com classificações de exoplanetas existentes para validar a eficácia do modelo.
+
+## Classificação de Galáxias e Estrelas
+Além da classificação de astros e exoplanetas, o projeto também incluirá a classificação de galáxias e estrelas. Serão utilizados conjuntos de dados astronômicos contendo informações espectrais, morfológicas e fotométricas para treinar modelos de Machine Learning. Esses modelos aprenderão a reconhecer e classificar diferentes tipos de galáxias e estrelas com base em suas características. A precisão e o desempenho dos modelos serão avaliados utilizando conjuntos de dados de teste.
+
+## Conclusão
+Este projeto tem como objetivo aplicar técnicas de Machine Learning e Inteligência Artificial na área da astronomia, visando a classificação de astros e a detecção de novos exoplanetas. Serão utilizados modelos de aprendizado de máquina, como redes neurais convolucionais e aprendizado não supervisionado, para analisar e processar conjuntos de dados astronômicos. Os resultados obtidos fornecerão informações importantes para a compreensão e exploração do universo. Todos os projetos serão disponibilizados nas pastas "Jupyter Notebook" e "Py", contendo comentários explicativos e documentação detalhada para facilitar o entendimento e a reprodução dos experimentos. O projeto visa tanto o estudo dos conceitos teóricos da área quanto a aplicação prática de técnicas de Inteligência Artificial na astronomia.
 
 ## Autores
 
