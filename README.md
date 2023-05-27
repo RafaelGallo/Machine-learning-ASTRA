@@ -25,7 +25,7 @@
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
-![Logo](https://image.freepik.com/fotos-gratis/panorama-noturno-da-galaxia_23-2148895342.jpg)
+![Logo](https://img.freepik.com/fotos-gratis/galaxia-espiral-de-campo-estelar-brilhante-via-lactea-gerada-por-ia_24640-90989.jpg?w=740&t=st=1685231437~exp=1685232037~hmac=c379bbf95e3062b12e3f44c2cabbab6c53244b61243043462d042706a0c31809)
 
 # Descrição
 Esse projeto aplicando inteligência artificial na Astronomia para Classificação de Astros e Detecção de Novos Exoplanetas
