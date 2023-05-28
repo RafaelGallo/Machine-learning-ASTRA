@@ -138,6 +138,14 @@ function App() {
 | Dataset               | Link                                                 |
 | ----------------- | ---------------------------------------------------------------- |
 |Pulsar Star|[Link](https://github.com/RafaelGallo/Machine-learning---ASTRA-/blob/main/Jupyter%20Notebook/M.L%20modelo%20classificacao.ipynb)|
+|Stellar Classification|https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17|
+|Star dataset to predict star types|https://www.kaggle.com/datasets/deepu1109/star-dataset|
+|Sunspots|https://www.kaggle.com/datasets/robervalt/sunspots|
+|Exoplanet Hunting in Deep Space|https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data |
+|NASA: Asteroids Classification| https://www.kaggle.com/datasets/shrutimehta/nasa-asteroids-classification|
+|Hipparcos Star Astronomy Catalog|https://www.kaggle.com/datasets/konivat/hipparcos-star-catalog|
+|Star Cluster Simulations|https://www.kaggle.com/datasets/mariopasquato/star-cluster-simulations|
+|Solar and Lunar Eclipses - NASA |https://www.kaggle.com/datasets/nasa/solar-eclipses|
 |Asteroids Classification - NASA |https://www.kaggle.com/shrutimehta/nasa-asteroids-classification?select=nasa.csv |
 |Sloan Digital Sky Survey DR16 | https://www.kaggle.com/muhakabartay/sloan-digital-sky-survey-dr16|
 |Kepler Exoplanet - NASA| https://www.kaggle.com/nasa/kepler-exoplanet-search-results|
